@@ -1,0 +1,60 @@
+{
+    "list": [{
+            "title": "Here IAm (End Title)",
+            "sq": "SQ",
+            "dj": "独家",
+            "ms": "Bryan Adams . Spirit - Stallion of the one o....",
+            "img1": "./../../src/components/album/img/icon-09@2x.png",
+            "img2": "./../../src/components/album/img/icon-08@2x.png",
+            "active": true
+        },
+        {
+            "title": "Rain",
+            "sq": "SQ",
+            "dj": "独家",
+            "ms": "Taylor seift -You Nees To Calm Down",
+            "img2": "./../../src/components/album/img/icon-08@2x.png",
+            "active": false
+        },
+        {
+            "title": "Homeland",
+            "sq": "SQ",
+            "dj": "独家",
+            "ms": "AGA -Ginadoll",
+            "img2": "./../../src/components/album/img/icon-08@2x.png",
+            "active": false
+        },
+        {
+            "title": "Run Free",
+            "sq": "SQ",
+            "dj": "独家",
+            "ms": "Lola Coca- GQ",
+            "img2": "./../../src/components/album/img/icon-08@2x.png",
+            "active": false
+        },
+        {
+            "title": "Get Off My Back",
+            "sq": "SQ",
+            "dj": "独家",
+            "ms": "Olly Murs-24 HRS(Deluxe)",
+            "img2": "./../../src/components/album/img/icon-08@2x.png",
+            "active": false
+        },
+        {
+            "title": "I Will Always Return",
+            "sq": "SQ",
+            "dj": "独家",
+            "ms": "Corki-Falling",
+            "img2": "./../../src/components/album/img/icon-08@2x.png",
+            "active": false
+        },
+        {
+            "title": "Dont Iet Go",
+            "sq": "SQ",
+            "dj": "独家",
+            "ms": "Bryan Adams . Spirit - Stallion ",
+            "img2": "./../../src/components/album/img/icon-08@2x.png",
+            "active": false
+        }
+    ]
+}
